@@ -1,0 +1,6 @@
+# colocamos la ruta en donde esta el archivo que queremos ignorar
+# secret key
+src/secret.json
+
+# entornos virtuales
+usuariosDjando/entornos
